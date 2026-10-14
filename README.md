@@ -101,26 +101,34 @@ class About extends Me {
 </div>
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
+
 🦄 Welcome to My Magical World! ✨
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L0O3TQpp0WnSXmxV8p/giphy.gif" width="200" alt="Cute animated unicorn" />
+  <img src="./unicorn_code_with_sama.gif" width="400" alt="Unicorn coding with Sama" />
 </p>
 <h2 align="center">
   ✨ Code with Sama 💗
 </h2>
 <p align="center">
-  <i>Coding with Sama, where creativity meets code! 💻✨</i>
+  <i>Coding with Sama, where creativity meets code! 💻🌈</i>
 </p>
 <p align="center">
-  🌈 Keep Learning &nbsp; 💖 &nbsp; Keep Coding &nbsp; 💖 &nbsp; Keep Dreaming
+  💖 Keep Learning &nbsp; ✨ &nbsp; Keep Coding &nbsp; 🦄 &nbsp; Keep Dreaming
 </p>
 <p align="center">
-  🦄 💕 ✨ 💜 ✨ 💕 🦄
+  🌸━━━━━━━━━━━━━━━━━━━━🌸
 </p>
-
-⸻
-
+<h3 align="center">
+  💻 My Coding Journey
+</h3>
 <p align="center">
-  <i>Turning ideas into code, one line at a time! 💻</i>
+  🐍 Python &nbsp; | &nbsp; ⚡ C++ &nbsp; | &nbsp; 🔌 Electronics
+</p>
+<p align="center">
+  <i>Turning ideas into code, one line at a time! 💜</i>
+</p>
+<p align="center">
+  💕 ✨ 🦄 ✨ 💕
 </p>
