@@ -102,46 +102,28 @@ class About extends Me {
 
 
 
-<h3>🎮 Let's play Pokémon together!</h3>
+<a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/samax12dx">
+  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30" alt="Up">
+</a>
 
-<img src="https://toy.cloudreve.org/image" width="300" alt="Pokémon game screen">
+<a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/samax12dx">
+  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30" alt="Left">
+</a>
 
-<div>
-  <a href="https://toy.cloudreve.org/control?button=2">
-    ⬆️
-  </a>
-</div>
+<a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/samax12dx">
+  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30" alt="Right">
+</a>
 
-<div>
-  <a href="https://toy.cloudreve.org/control?button=1">
-    ⬅️
-  </a>
-  <a href="https://toy.cloudreve.org/control?button=0">
-    ➡️
-  </a>
-</div>
+<a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/samax12dx">
+  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30" alt="Down">
+</a>
 
-<div>
-  <a href="https://toy.cloudreve.org/control?button=3">
-    ⬇️
-  </a>
-</div>
+<a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/samax12dx">
+  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30" alt="B">
+</a>
 
-<div>
-  <a href="https://toy.cloudreve.org/control?button=5">
-    🅱️
-  </a>
-  <a href="https://toy.cloudreve.org/control?button=4">
-    🅰️
-  </a>
-</div>
+<a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/samax12dx">
+  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30" alt="A">
+</a>
 
-<div>
-  <a href="https://toy.cloudreve.org/control?button=6">
-    SELECT
-  </a>
-  <a href="https://toy.cloudreve.org/control?button=7">
-    START
-  </a>
-</div>
 
