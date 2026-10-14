@@ -6,13 +6,13 @@
 
 ⸻
 
-🦄 Welcome to My Magical World! ✨
+ Welcome to My Magical World!🦄
 
 <p align="center">
   <img src="./unicorn_code_with_sama.gif" width="400" alt="Unicorn coding with Sama" />
 </p>
 <h2 align="center">
-  ✨ Code with Sama 💗
+   Code with Sama 💗
 </h2>
 <p align="center">
   <i>Coding with Sama, where creativity meets code! 💻🌈</i>
