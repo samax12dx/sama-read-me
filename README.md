@@ -102,4 +102,24 @@ class About extends Me {
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
+🦄 Welcome to My Magical World! ✨
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="280" alt="Unicorn GIF" />
+</p>
+<h2 align="center">
+  ✨ Coding with a Little Bit of Magic! 💖
+</h2>
+<p align="center">
+  🌈 Keep Learning 💗 Keep Coding 💗 Keep Dreaming 🌈
+</p>
+<p align="center">
+  💕 ✨ 🦄 ✨ 💕
+</p>
+
+⸻
+
+<p align="center">
+  <i>Turning ideas into code, one line at a time! 💻💜</i>
+</p>
 
