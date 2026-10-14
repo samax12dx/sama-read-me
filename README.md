@@ -1,13 +1,18 @@
-<div align="center" width="50">
 
+<!-- Hello GIF - First thing on the profile -->
+<p align="center">
+  <img src="./hello_unicorns_pink.gif" width="500" alt="Hello with little unicorns 🦄" />
+</p>
 
-🦄 Welcome to My Magical World! 
+⸻
+
+🦄 Welcome to My Magical World! ✨
 
 <p align="center">
   <img src="./unicorn_code_with_sama.gif" width="400" alt="Unicorn coding with Sama" />
 </p>
 <h2 align="center">
-   Code with Sama 💗
+  ✨ Code with Sama 💗
 </h2>
 <p align="center">
   <i>Coding with Sama, where creativity meets code! 💻🌈</i>
@@ -30,7 +35,8 @@
 <p align="center">
   💕 ✨ 🦄 ✨ 💕
 </p>
-<hr></hr>
+
+
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
