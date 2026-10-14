@@ -4,7 +4,6 @@
   <img src="./hello_unicorns_pink.gif" width="500" alt="Hello with little unicorns 🦄" />
 </p>
 
-⸻
 
  Welcome to My Magical World!🦄
 
