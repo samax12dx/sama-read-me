@@ -5,7 +5,7 @@
 </p>
 
 
-                    Welcome to My Magical World!🦄
+  Welcome to My Magical World!🦄
 
 <p align="center">
   <img src="./unicorn_code_with_sama.gif" width="400" alt="Unicorn coding with Sama" />
