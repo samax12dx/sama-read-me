@@ -102,28 +102,3 @@ class About extends Me {
 
 
 
-<a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/samax12dx">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30" alt="Up">
-</a>
-
-<a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/samax12dx">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30" alt="Left">
-</a>
-
-<a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/samax12dx">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30" alt="Right">
-</a>
-
-<a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/samax12dx">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30" alt="Down">
-</a>
-
-<a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/samax12dx">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30" alt="B">
-</a>
-
-<a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/samax12dx">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30" alt="A">
-</a>
-
-
