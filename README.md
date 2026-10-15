@@ -113,11 +113,11 @@
 </p>
 <p align="center">
 </p>
-<!-- 💖 FOOTER -->
+<!--  FOOTER -->
 <p align="center">
-  💗 Keep Learning
-  &nbsp; ✨ &nbsp;
+  Keep Learning
+  &nbsp;  &nbsp;
   Keep Coding
-  &nbsp; 🦄 &nbsp;
-  Keep Dreaming 💗
+  &nbsp;  &nbsp;
+  Keep Dreaming 
 </p>
