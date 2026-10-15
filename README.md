@@ -1,5 +1,4 @@
 <!-- 🦄━━━━━━━━ HELLO ━━━━━━━━🦄 -->
-
 <p align="center">
   <img
     src="./hello_unicorns_pink.gif"
@@ -7,24 +6,17 @@
     alt="Hello Unicorns"
   />
 </p>
-
 <h1 align="center">
   🦄 My Magical World 💗
 </h1>
-
 <p align="center">
   ✨ Learning • Coding • Creating ✨
 </p>
-
 <p align="center">
   💗 ━━━━━━━━━━━━━━━━━━━━━ 💗
 </p>
-
-
 <!-- 🌸 ABOUT ME -->
-
 <h2 align="center">🌸 About Me</h2>
-
 <p align="center">
   Hi! I'm Sama 👋💗
   <br />
@@ -32,86 +24,61 @@
   <br />
   I enjoy exploring how software and hardware work together.
 </p>
-
 <p align="center">
-  🌱 Learning every day &nbsp;•&nbsp; 
-  💡 Exploring new ideas &nbsp;•&nbsp; 
+  🌱 Learning every day
+  <br />
+  💡 Exploring new ideas
+  <br />
   ⚡ Building my technical skills step by step
 </p>
-
-
-<!-- 🦄 DIVIDER -->
-<p align="center">
-  <img src="./unicorn_divider.gif" width="60%" alt="Unicorn Divider" />
-</p>
-
-
 <!-- 💻 MY SKILLS -->
-
 <h2 align="center">💻 Languages & Technologies</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Electronics-DB83D9?style=for-the-badge&logo=esphome&logoColor=white" alt="Electronics" />
   <img src="https://img.shields.io/badge/Electrical_Circuits-F4A6CF?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Electrical Circuits" />
 </p>
-
 <p align="center">
   🔌 Electronic Components &nbsp; • &nbsp;
   ⚡ Electrical Circuits
   <br />
   🐍 Python &nbsp; • &nbsp; 💻 C++
 </p>
-
-
 <!-- 🌷 LEARNING -->
-
 <h2 align="center">🌱 Always Learning</h2>
-
 <p align="center">
   <i>
     Learning, experimenting, solving problems,
     and improving one step at a time.
   </i>
 </p>
-
 <p align="center">
   🌸 ✨ 🦄 ✨ 🌸
 </p>
-
-
 <!-- 📊 GITHUB STATS -->
-
 <h2 align="center">📊 My GitHub Dashboard</h2>
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=samax12dx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=samax12dx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"
+    width="49%"
     alt="Sama's GitHub Statistics"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=samax12dx&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
-    width="100%"
+    width="49%"
     alt="Most Used Languages"
   />
 </p>
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=samax12dx&theme=tokyonight&hide_border=true&border_radius=15"
-    width="100%"
+    width="70%"
     alt="GitHub Contribution Streak"
   />
 </p>
-
 <details>
-  <summary>💗 ✨ More GitHub Stats & Details</summary>
-  <br />
+  <summary>💗 ✨ More GitHub Stats</summary>
   <p align="center">
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samax12dx&theme=tokyonight"
@@ -132,16 +99,11 @@
     />
   </p>
 </details>
-
-
 <!-- 🦄 MY CODE CYCLE -->
-
 <p align="center">
   💗 ━━━━━━━━━━━━━━━━━━━━━ 💗
 </p>
-
 <h2 align="center">🦄 My Code Cycle</h2>
-
 <p align="center">
   <img
     src="./unicorn_coding_animated.gif"
@@ -149,17 +111,13 @@
     alt="Unicorn coding, finding bugs, and fixing errors"
   />
 </p>
-
 <p align="center">
   💻 Write Code &nbsp; ✨ &nbsp;
   🔍 Find Bugs &nbsp; ✨ &nbsp;
   🛠️ Fix Bugs &nbsp; ✨ &nbsp;
   🔁 Repeat!
 </p>
-
-
 <!-- 💖 FOOTER -->
-
 <p align="center">
   💗 Keep Learning
   &nbsp; ✨ &nbsp;
