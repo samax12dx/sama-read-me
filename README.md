@@ -7,7 +7,7 @@
   />
 </p>
 <h1 align="center">
-  🦄 My Magical World 💗
+
 </h1>
 <p align="center">
   
