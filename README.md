@@ -10,10 +10,10 @@
   🦄 My Magical World 💗
 </h1>
 <p align="center">
-  ✨ Learning • Coding • Creating ✨
+  
 </p>
 <p align="center">
-  💗 ━━━━━━━━━━━━━━━━━━━━━ 💗
+  
 </p>
 <!-- 🌸 ABOUT ME -->
 <h2 align="center">🌸 About Me</h2>
@@ -101,7 +101,7 @@
 </details>
 <!-- 🦄 MY CODE CYCLE -->
 <p align="center">
-  💗 ━━━━━━━━━━━━━━━━━━━━━ 💗
+
 </p>
 <h2 align="center">🦄 My Code Cycle</h2>
 <p align="center">
@@ -112,10 +112,6 @@
   />
 </p>
 <p align="center">
-  💻 Write Code &nbsp; ✨ &nbsp;
-  🔍 Find Bugs &nbsp; ✨ &nbsp;
-  🛠️ Fix Bugs &nbsp; ✨ &nbsp;
-  🔁 Repeat!
 </p>
 <!-- 💖 FOOTER -->
 <p align="center">
